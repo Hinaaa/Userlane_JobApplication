@@ -1,0 +1,14 @@
+[
+	{
+	"tc":"Test",  
+	"jobType":"Engineering",
+	"jobDescription": "Automation Test Engineer ( Cypress/Typescript)",
+	"applicantName":"Automation Tester",
+	"applicantEmail":"dummyAutomation@test.com",
+	"applicantPhoneNo":"+491321221111",
+	"applicantOrg":"Test Org",
+	"applicantLinkedIn":"https://www.linkedin.com/in/test-automation-10000000/",
+	"applicantExpectedSalary":"65000",
+	"applicantAdditionalInformation":"This is an auto application via automation test. please ignore this application"
+	}
+]
