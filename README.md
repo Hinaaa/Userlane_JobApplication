@@ -47,3 +47,4 @@ Choosing tech stack: Cypress has been used.
 1. Please accept cookies once if its appearing for smooth execution. Cookie acceptance popup elements are not directly accesable
 2. Captcha handing tried but not completely worked (code commented). Also bypassing Captcha is unethical and Captchas are designed to prevent automated programs, or bots, from accessing websites or performing certain actions. An alternate approach to access submission page applied, i.e. directly accessing applied page to validate page response
 3. some other issues identified with application like captcha disappear after some time then page hanged/submit button is not working to retry
+4. Video for successfull execution https://www.loom.com/share/72fccc69b1ca4a3c8627f3a277f1d3ac
